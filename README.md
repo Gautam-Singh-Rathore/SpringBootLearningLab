@@ -1,6 +1,6 @@
 # Spring Boot Learning Lab 🌱💻
 
-Welcome to the Spring Boot Learning Lab repository! This repository is designed to help you learn and master Spring and Spring Boot frameworks through practical coding examples.
+Welcome to the Spring Boot Learning Lab repository! This repository is designed to help you learn and master Spring and Spring Boot frameworks through practical coding examples. 
 
 ## Contents
 - **src/**: Contains the source code for various Spring and Spring Boot projects.
